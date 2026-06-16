@@ -17,7 +17,7 @@ Expected answer for the supplied puzzle input: ``218``.
     python safe_unsafe.py
 """
 
-import sys
+# import sys
 
 
 def s_or_u(reactor: list[int]) -> bool:
